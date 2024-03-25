@@ -1,4 +1,4 @@
-# ARIMA VAR-X and RNN for times series forecasting 
+## ARIMA, VAR-X, VECM and RNN for times series forecasting 
 
  A projet of a quarterly projection on "USA GDP Forecasting”. Presents a meticulous analysis and  Gross Domestic Product over the three years (thus 12 quarters).
 
