@@ -2,7 +2,7 @@
 
  A projet of a quarterly projection on "USA GDP Forecasting”. Presents a meticulous analysis and  Gross Domestic Product over the three years (thus 12 quarters).
 
-### Requirements
+#### _Requirements_
 This assignement required initialising the reticulate package converts the Python objects to R. As needed on the backend to run TensorFlow and Keras. 
 
 
