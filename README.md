@@ -6,9 +6,14 @@ This assignement required initialising the reticulate package converts the Pytho
 
 ### Preprocess
 Feature selection
+
 Model selection
+
 Optimal order 
+
 Baxter-king filter
+
+...
 
 ### Univariate ARIMA
 Employing the ARIMA model & Box-Jenkins approach to estimate the ARIMA model, accompanied by an exploration of potential causal variables influencing GDP
